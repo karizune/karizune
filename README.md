@@ -15,6 +15,10 @@
   Últimos sites publicados feitos por mim:
   <a href="https://karizune.github.io/Pokedex-Angular-9/Pokemon">PokeBase</a>
 </p>
+<p>
+  Últimos jogos feitos por mim:
+  <a href="https://github.com/karizune/Forest-Shooter/releases/tag/1.0.0">Forest Shooter</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
