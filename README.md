@@ -9,6 +9,14 @@
 
 - 👤 I’m currently working at OD Tecnologia 
 - ❤ I’m Working in implementation of BI sistems on enterprises
+
+
+<p>
+  <img src="http://www.odtecnologia.com.br/img/od_tp.png" width="200" />
+  <img src="https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png" width="150" />
+</p>
+
+
 - 📫 Reach me at luanchrystian2@gmail.com
 
 <p>
@@ -19,11 +27,6 @@
 <p>
   Last games made for myself:
   <a href="https://github.com/karizune/Forest-Shooter/releases/tag/1.0.0">Forest Shooter</a>
-</p>
-
-<p>
-  <img src="http://www.odtecnologia.com.br/img/od_tp.png" width="200" />
-  <img src="https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png" width="150" />
 </p>
 
 ## 🔧 Technologies & Tools
