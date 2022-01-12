@@ -8,8 +8,7 @@
 ### Welcome to my profile!
 
 - 👤 I’m currently working at OD Tecnologia 
-- ❤ I’m Working in implementation of BI sistems on enterprises
-
+- ❤ I’m Working with development of WebDecisor
 
 <p>
   <img src="http://www.odtecnologia.com.br/img/od_tp.png" width="200" />
