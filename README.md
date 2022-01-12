@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone!!!!
 
 # I am Luan Chrystian 💻
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karizune)](https://github.com/karizune)
@@ -7,13 +7,12 @@
 
 ### Welcome to my profile!
 
-- 👤 I’m currently working at OD Tecnologia 
-- ❤ I’m Working with development of WebDecisor
+- 👤 I’m currently working at WebDecisor 
+- ❤ I’m Working with development of WebDecisor BI
 
 <p>
   <img src="https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png" width="150" />
 </p>
-
 
 - 📫 Reach me at luanchrystian2@gmail.com
 
@@ -59,5 +58,14 @@
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=karizune&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=midnight-purple"
     />
+  </a>
+</p>
+<p align="center">
+  <a href="https://app.daily.dev/karizune" align="center">
+    <img 
+      align="center" 
+      src="https://api.daily.dev/devcards/194ccd6372b2460a97cd0abc4a8ac84e.png?r=evk" 
+      width="200" 
+      alt="Luan Chrystian's Dev Card"/>
   </a>
 </p>
