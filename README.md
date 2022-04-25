@@ -7,8 +7,7 @@
 
 ### Welcome to my profile!
 
-- 👤 I’m currently working at WebDecisor 
-- ❤ I’m Working with development of WebDecisor BI
+- 👤 I’m currently working at WebDecisor with development of WebDecisor BI
 
 <p>
   <img src="https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png" width="150" />
