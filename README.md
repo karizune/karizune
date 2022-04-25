@@ -18,7 +18,7 @@
 
 <p>
   Last sites made for myself:
-  <a href="https://karizune.github.io/Pokedex-Angular-9/Pokemon">PokeBase</a>
+  <a href="https://karizune.github.io/Pokedex-Angular-9/Pokemon">PokeBase</a><br>
   <a href="https://karizune.github.io/call-in-whatsapp-easily/">Call Whatsapp Easily</a>
 </p>
 
