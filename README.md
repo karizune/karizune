@@ -6,13 +6,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/LuanCGalan/)](https://www.facebook.com/LuanCGalan/)
 
 ### Welcome to my profile!
-
-- 👤 I’m currently working at WebDecisor with development of WebDecisor BI
-
-<p>
-  <img src="https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png" width="150" />
-</p>
-
 - 📫 Reach me at luanchrystian2@gmail.com
 
 <p>
