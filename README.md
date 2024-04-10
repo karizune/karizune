@@ -1,13 +1,14 @@
 ### Hello everyone!!!!
 
-# Call me Luan!
+# Call me "Luan" or by my nickname "Kabu"!
+I am a fullstack developer at my free time and i like to do some things like create API's, micro services and a bit of frontend development when i can. 
+If you want to talk to buy or wanted a help for something, you can reach me in this e-mail: luanchrystian2@gmail.com. I will try to respond soon as possible.
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karizune)](https://github.com/karizune)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-chrystian-galan-3b5a03195/)](https://www.linkedin.com/in/luan-chrystian-galan-3b5a03195/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/LuanCGalan/)](https://www.facebook.com/LuanCGalan/)
 
-### Welcome to my profile!
-- 📫 Reach me at luanchrystian2@gmail.com
-
+<h3> Check this things i have made by myself in the last year, its only a bit of my ongoing work!</h3>
 <p>
   Last sites made by myself:<br/>
   <a href="https://karizune.github.io/call-in-whatsapp-easily/">Call Whatsapp Easily</a><br/>
@@ -37,7 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats (maybe will be outdated)
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
