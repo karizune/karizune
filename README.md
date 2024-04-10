@@ -9,13 +9,13 @@
 - 📫 Reach me at luanchrystian2@gmail.com
 
 <p>
-  Last sites made for myself:<br/>
+  Last sites made by myself:<br/>
   <a href="https://karizune.github.io/call-in-whatsapp-easily/">Call Whatsapp Easily</a><br/>
   <a href="https://karizune.github.io/Pokedex-Angular-9/Pokemon">PokeBase</a>
 </p>
 
 <p>
-  Last games made for myself:<br/>
+  Last games made by myself:<br/>
   <a href="https://github.com/karizune/Forest-Shooter/releases/tag/1.0.0">Forest Shooter</a>
 </p>
 
