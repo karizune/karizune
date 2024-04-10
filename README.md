@@ -1,6 +1,6 @@
 ### Hello everyone!!!!
 
-# I am Luan Chrystian 💻
+# Call me Luan!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karizune)](https://github.com/karizune)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-chrystian-galan-3b5a03195/)](https://www.linkedin.com/in/luan-chrystian-galan-3b5a03195/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/LuanCGalan/)](https://www.facebook.com/LuanCGalan/)
