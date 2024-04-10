@@ -1,6 +1,6 @@
-### Hello everyone!!!!
+# Hello everyone!!!!
 
-# Call me "Luan" or by my nickname "Kabu"!
+### Call me "Luan" or by my nickname "Kabu"!
 I am a fullstack developer at my free time and i like to do some things like create API's, micro services and a bit of frontend development when i can. 
 If you want to talk to buy or wanted a help for something, you can reach me in this e-mail: luanchrystian2@gmail.com. I will try to respond soon as possible.
 
