@@ -8,17 +8,7 @@ If you want to talk to buy or wanted a help for something, you can reach me in t
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-chrystian-galan-3b5a03195/)](https://www.linkedin.com/in/luan-chrystian-galan-3b5a03195/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/LuanCGalan/)](https://www.facebook.com/LuanCGalan/)
 
-<h3> Check this things i have made by myself in the last year, its only a bit of my ongoing work!</h3>
-<p>
-  Last sites made by myself:<br/>
-  <a href="https://karizune.github.io/call-in-whatsapp-easily/">Call Whatsapp Easily</a><br/>
-  <a href="https://karizune.github.io/Pokedex-Angular-9/Pokemon">PokeBase</a>
-</p>
-
-<p>
-  Last games made by myself:<br/>
-  <a href="https://github.com/karizune/Forest-Shooter/releases/tag/1.0.0">Forest Shooter</a>
-</p>
+<h3> Check my organization to see more projects. <a href="https://github.com/KabuSolutions">Link</a></h3>
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)
